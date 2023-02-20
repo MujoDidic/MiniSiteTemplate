@@ -16,8 +16,8 @@ function getValues() {
         //call FizzBuzz
         let fbArray = fizzBuzz(fizzValue, buzzValue);
         
+        
         //Display data to a screen
-
         displayData(fbArray);
     }else{
         alert("You must input number!!!");
