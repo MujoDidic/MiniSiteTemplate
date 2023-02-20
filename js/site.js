@@ -1,12 +1,4 @@
-//Call Helloo World
-function helloWorld(){
-    alert("Hello World");
-}
-
-function helloWorld(){
-    alert("Hello World");
-}
-
+//Call Hello World
 function helloWorld(){
     alert("Hello World");
 }
